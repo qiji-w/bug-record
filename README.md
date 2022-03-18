@@ -1,1 +1,1 @@
-"# bug-record" 
+测试bug排行榜
